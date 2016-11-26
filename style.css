@@ -1,0 +1,28 @@
+.feed {
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: 50px;
+    min-height: 1000px;
+    
+}
+
+.feed h3 {
+    border: 1px solid black;
+    padding: 20px;
+}
+.page-title {
+    margin-left:100px;
+    color:dark-grey;
+}
+.login{
+    border:1px solid black;
+    background-color: #94dbf7;
+    padding:20px;
+    
+}
+
+
+
+
+
+
